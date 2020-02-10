@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexaiyoore.apioarchitect.com/sitemap.xml
